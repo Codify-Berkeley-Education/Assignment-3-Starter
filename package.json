@@ -4,7 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "testp1": "npx vitest run -t 'Problem 1'",
+    "testp2": "npx vitest run -t 'Problem 2'",
+    "testp3": "npx vitest run -t 'Problem 3'",
+    "testp4": "npx vitest run -t 'Problem 4'",
+    "testp5": "npx vitest run -t 'Problem 5'",
+    "testp6": "npx vitest run -t 'Problem 6'"
   },
   "author": "",
   "license": "ISC",

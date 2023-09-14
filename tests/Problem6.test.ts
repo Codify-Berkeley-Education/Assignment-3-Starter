@@ -4,7 +4,7 @@ import { User } from "../types";
 
 import verifyUser from "../problems/Problem6";
 
-describe("verifyUser function", () => {
+describe("Problem 6", () => {
   it("Basic Test Case - All Properties Present", () => {
     const userData: User = {
       id: "123",

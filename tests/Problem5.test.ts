@@ -2,7 +2,7 @@ import { describe, expect, it } from "vitest";
 
 import countOccurrences from "../problems/Problem5";
 
-describe("countOccurrences Function", () => {
+describe("Problem 5", () => {
   it("Basic test case: should count the number of times a value appears in the array", () => {
     const arr = [1, 2, 3, 2, 4, 2, 5];
     const val = 2;
